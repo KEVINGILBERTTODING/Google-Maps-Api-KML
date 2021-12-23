@@ -50,7 +50,7 @@
   <hr>
   <div id="map"></div>
 
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCns0o8yq9Q6Z3sskLNzV6hfaPilFI5twU&callback=initMap" async></script>
+  <script src="" async></script>
 
 </body>
 
