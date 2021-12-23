@@ -1,29 +1,49 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Map</title>
+  <meta charset="utf-8">
+  <title>Gmap using KML</title>
+
+  <script type="text/javascript">
+    function initMap() {
+      const map = new google.maps.Map(document.getElementById("map"), {
+        zoom: 11,
+        center: {
+          lat: -7.7768,
+          lng: 112.1313
+        },
+      });
+
+      const kecamatanLayer = new google.maps.KmlLayer({
+        url: "https://raw.githubusercontent.com/KEVINGILBERTTODING/KML-FILE/master/kecamatan_kediri.kml",
+        map: map,
+      });
+
+    }
+  </script>
+  <style type="text/css">
+    #map {
+      height: 60%;
+      width: 60%;
+    }
+
+    /* Optional: Makes the sample page fill the window. */
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
 </head>
 
 <body>
-  <h1>My First Google Map</h1>
+  <h2>Akses KML Dengan Google Map API</h2>
+  <hr>
+  <div id="map"></div>
 
-  <div id="googleMap" style="width:100%;height:800px;"></div>
-
-  <script>
-    function myMap() {
-      var mapProp = {
-        center: new google.maps.LatLng(-7.0149, 110.3942),
-        zoom: 12,
-      };
-      var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
-    }
-  </script>
-
-  <script src="https://maps.googleapis.com/maps/api/js?key=&callback=myMap"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCns0o8yq9Q6Z3sskLNzV6hfaPilFI5twU&callback=initMap" async></script>
 
 </body>
 

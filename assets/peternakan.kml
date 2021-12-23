@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="peternakan_1" id="peternakan_1">
+            <SimpleField type="double" name="id"/>
+            <SimpleField type="string" name="nama"/>
+            <SimpleField type="string" name="alamat"/>
+            <SimpleField type="string" name="lat"/>
+            <SimpleField type="string" name="lng"/>
+        </Schema>
+        <Folder>
+            <name>peternakan</name>
+            <Placemark id="peternakan.1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">1.0</SimpleData>
+                        <SimpleData name="nama">Kel. Tani Ternak Sapi Barokah</SimpleData>
+                        <SimpleData name="alamat">Jl. Tegalrejo, Semen, Ngablak, Kec. Banyakan</SimpleData>
+                        <SimpleData name="lat">-7.75237</SimpleData>
+                        <SimpleData name="lng">111.99297</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>111.99297,-7.75237</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">2.0</SimpleData>
+                        <SimpleData name="nama">Ternak Sapi Timbang</SimpleData>
+                        <SimpleData name="alamat">Dusun Pucung, Jambean, Kec. Kras</SimpleData>
+                        <SimpleData name="lat">-7.91845</SimpleData>
+                        <SimpleData name="lng">111.97477</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>111.97477,-7.91845</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">3.0</SimpleData>
+                        <SimpleData name="nama">Sawunggaling Farm</SimpleData>
+                        <SimpleData name="alamat">Kencong Timur, Kencong, Kec. Kepung</SimpleData>
+                        <SimpleData name="lat">-7.76888</SimpleData>
+                        <SimpleData name="lng">112.23943</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.23943,-7.76888</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">4.0</SimpleData>
+                        <SimpleData name="nama">Si Beken</SimpleData>
+                        <SimpleData name="alamat">JL SUDANCO Jl. Sudanco Supriyadi Gg. DKK No.8, Mojoroto, Kec. Mojoroto</SimpleData>
+                        <SimpleData name="lat">-7.81146</SimpleData>
+                        <SimpleData name="lng">112.00631</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.00631,-7.81146</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">5.0</SimpleData>
+                        <SimpleData name="nama">Peternakan Sapi Lembu Mas</SimpleData>
+                        <SimpleData name="alamat">Jl. Kenanga, Krenceng, Kec. Kepung</SimpleData>
+                        <SimpleData name="lat">-7.77891</SimpleData>
+                        <SimpleData name="lng">112.22362</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.22362,-7.77891</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">6.0</SimpleData>
+                        <SimpleData name="nama">Sapi Perah Jodipati</SimpleData>
+                        <SimpleData name="alamat">Jl. Jodipati No.55, Banyuanyar, Kec. Gurah</SimpleData>
+                        <SimpleData name="lat">-7.82489</SimpleData>
+                        <SimpleData name="lng">112.09045</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.09045,-7.82489</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.10">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">7.0</SimpleData>
+                        <SimpleData name="nama">Barokah Farm Kediri</SimpleData>
+                        <SimpleData name="alamat">Jl. Sikatan Wates, Wates, Kec. Wates</SimpleData>
+                        <SimpleData name="lat">-7.88448</SimpleData>
+                        <SimpleData name="lng">111.98277</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>111.98277,-7.88448</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.11">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">8.0</SimpleData>
+                        <SimpleData name="nama">UD. Sahabat Kediri</SimpleData>
+                        <SimpleData name="alamat">Dusun Bangsongan RT005 RW024, Badalcikal, Sukoanyar, Kec. Mojo</SimpleData>
+                        <SimpleData name="lat">-7.86705</SimpleData>
+                        <SimpleData name="lng">111.97901</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>111.97901,-7.86705</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.12">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">9.0</SimpleData>
+                        <SimpleData name="nama">Peternakan Sekar Lembu</SimpleData>
+                        <SimpleData name="alamat">Jl. Karanglo, Paron II, Paron, Kec. Ngasem</SimpleData>
+                        <SimpleData name="lat">-7.81024</SimpleData>
+                        <SimpleData name="lng">112.05547</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.05547,-7.81024</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.13">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">10.0</SimpleData>
+                        <SimpleData name="nama">Peternakan Sapi Perah Pak Kusgianto</SimpleData>
+                        <SimpleData name="alamat">Dusun Kedung Bogo, RT/RW 02/02, Kedungbogo, Kuwik, Kec. Kunjang</SimpleData>
+                        <SimpleData name="lat">-7.68202</SimpleData>
+                        <SimpleData name="lng">112.19298</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.19298,-7.68202</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.14">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">11.0</SimpleData>
+                        <SimpleData name="nama">Rumah Ternak Sapi H. Sunarto</SimpleData>
+                        <SimpleData name="alamat">Jl. Brontoseno, Dusun Purwodadi, Purwodadi, Kec. Kras</SimpleData>
+                        <SimpleData name="lat">-7.94875</SimpleData>
+                        <SimpleData name="lng">111.95351</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>111.95351,-7.94875</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.15">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">12.0</SimpleData>
+                        <SimpleData name="nama">CV. Karunia Kediri</SimpleData>
+                        <SimpleData name="alamat">Jongbiru, Kec. Gampengrejo</SimpleData>
+                        <SimpleData name="lat">-7.78091</SimpleData>
+                        <SimpleData name="lng">112.00763</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.00763,-7.78091</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.16">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">13.0</SimpleData>
+                        <SimpleData name="nama">Al Khoiriyah Farm</SimpleData>
+                        <SimpleData name="alamat">Candirejo, Tegowangi, Kec. Plemahan</SimpleData>
+                        <SimpleData name="lat">-7.73225</SimpleData>
+                        <SimpleData name="lng">112.15872</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.15872,-7.73225</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.17">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">14.0</SimpleData>
+                        <SimpleData name="nama">Pak Kancil Jual Beli Sapi</SimpleData>
+                        <SimpleData name="alamat">Jl. Marabunta, Dilem, Ringinrejo, Kec. Ringinrejo</SimpleData>
+                        <SimpleData name="lat">-7.98354</SimpleData>
+                        <SimpleData name="lng">112.04189</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.04189,-7.98354</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.18">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">15.0</SimpleData>
+                        <SimpleData name="nama">Kandang Sapi Pak Nur</SimpleData>
+                        <SimpleData name="alamat">Semanding, Kec. Pagu</SimpleData>
+                        <SimpleData name="lat">-7.77262</SimpleData>
+                        <SimpleData name="lng">112.09027</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.09027,-7.77262</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.19">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">16.0</SimpleData>
+                        <SimpleData name="nama">Sido Dadi Farm</SimpleData>
+                        <SimpleData name="alamat">Jl. Raya Kediri - Blitar, Susuhbango Selatan, Selodono, Kec. Ringinrejo</SimpleData>
+                        <SimpleData name="lat">-7.95961</SimpleData>
+                        <SimpleData name="lng">112.02954</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.02954,-7.95961</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.20">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">17.0</SimpleData>
+                        <SimpleData name="nama">Kandang Sapi Pak Siswanto</SimpleData>
+                        <SimpleData name="alamat">Dampit, Asmorobangun, Kec. Puncu</SimpleData>
+                        <SimpleData name="lat">-7.81321</SimpleData>
+                        <SimpleData name="lng">112.26823</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.26823,-7.81321</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.21">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">18.0</SimpleData>
+                        <SimpleData name="nama">Sumber Agung Farm</SimpleData>
+                        <SimpleData name="alamat">Sumberagung, Krecek, Kec. Badas</SimpleData>
+                        <SimpleData name="lat">-7.6439</SimpleData>
+                        <SimpleData name="lng">112.1690</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.169,-7.6439</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="peternakan.24">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#peternakan_1">
+                        <SimpleData name="id">19.0</SimpleData>
+                        <SimpleData name="nama">Kandang Sapi Desa Kedungmalang</SimpleData>
+                        <SimpleData name="alamat">Kedungmalang, Kec. Papar</SimpleData>
+                        <SimpleData name="lat">-7.70622</SimpleData>
+                        <SimpleData name="lng">112.11854</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>112.11854,-7.70622</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

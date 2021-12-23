@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="Jalan  Kediri_1" id="Jalan  Kediri_1">
+            <SimpleField type="string" name="namrjl"/>
+            <SimpleField type="double" name="konrjl"/>
+            <SimpleField type="double" name="matrjl"/>
+            <SimpleField type="double" name="fgsrjl"/>
+            <SimpleField type="double" name="utkrjl"/>
+            <SimpleField type="double" name="tolrjl"/>
+            <SimpleField type="double" name="wlyrjl"/>
+            <SimpleField type="double" name="autrjl"/>
+            <SimpleField type="double" name="klsrjl"/>
+            <SimpleField type="double" name="spcrjl"/>
+            <SimpleField type="double" name="jparjl"/>
+            <SimpleField type="double" name="arhrjl"/>
+            <SimpleField type="double" name="starjl"/>
+            <SimpleField type="string" name="kllrjl"/>
+            <SimpleField type="double" name="medrjl"/>
+            <SimpleField type="double" name="locrjl"/>
+            <SimpleField type="double" name="jarrjl"/>
+            <SimpleField type="string" name="fcode"/>
+            <SimpleField type="string" name="remark"/>
+            <SimpleField type="string" name="srs_id"/>
+            <SimpleField type="string" name="lcode"/>
+            <SimpleField type="string" name="metadata"/>
+            <SimpleField type="string" name="shape_leng"/>
+        </Schema>
+        <Folder>
+            <name>Jalan  Kediri</name>
+            <Placemark id="Jalan  Kediri.1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00168341813</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.25179079400007,-7.919379370999955 112.25180021500013,-7.919324430999939 112.25182780900002,-7.918795935999999 112.25172181200004,-7.918634646999976 112.25163955500008,-7.918581916999965 112.25141106,-7.918435428999924 112.25126321600011,-7.918395465999904 112.25111351100007,-7.91841798099999 112.25103450500002,-7.918429865999908 112.25088266899998,-7.918425464999899</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00447251103</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.26904451399999,-7.77260473199992 112.2690564820001,-7.772060927999956 112.26897511700011,-7.771316881999944 112.26873106900008,-7.771307825999905 112.26840000700004,-7.771306381999963 112.26751099700003,-7.771302488999908 112.26724533299998,-7.771326459999937 112.26683013800009,-7.771371522999935 112.26662710100008,-7.771386444000015 112.26599850100003,-7.7714326409999295 112.26580474700008,-7.771471118999916</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00653018276</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.13128091899999,-7.944917544999928 112.13125406200008,-7.944912046999917 112.13117924000002,-7.944915686999952 112.13063336200005,-7.944969553999968 112.1284901910001,-7.945173030999928 112.12730231600005,-7.945270083999965 112.12572977400005,-7.945368962999975 112.1255199950001,-7.9453927459999 112.12525213300015,-7.945407163999938 112.12518425200004,-7.945428012999976 112.12512724000011,-7.945445528999915 112.12506450800008,-7.945464801999911 112.12500488500002,-7.945483124000006 112.12499999700007,-7.945484740999962 112.1249993450001,-7.94548495599998 112.12484824500004,-7.945519243999975 112.12479045000005,-7.945536221999959</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Setapak</SimpleData>
+                        <SimpleData name="shape_leng">0.00140577686</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.25305796900011,-7.87517334599994 112.25302077700005,-7.875095989999934 112.25297221600012,-7.8750004320000215 112.2529720670001,-7.8750001389999085 112.25277583700003,-7.874613987999933 112.25242319399999,-7.874065358999925 112.252351501,-7.873960423999947</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00569429623</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.07176836500005,-7.899574739999913 112.07171787900005,-7.899561131999942 112.07086322900012,-7.899351644999928 112.07072442100001,-7.899394416999915 112.07064573000007,-7.8996327579999175 112.07056370900013,-7.899688028999961 112.07043643300007,-7.899661348999885 112.06975430400003,-7.899502589999983 112.06912032400007,-7.899351764999938 112.06860635300008,-7.8991697639999785 112.06871886200007,-7.898628288999941 112.06868194400012,-7.898469550999952 112.06858154400007,-7.898400267999904 112.06833044200008,-7.898334262999949 112.06721480700006,-7.898090488999941</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lokal</SimpleData>
+                        <SimpleData name="shape_leng">0.00518034989</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.29389106800011,-7.814312597000004 112.29375037600002,-7.814030122999991 112.29324504600004,-7.812528367999992 112.29293581800003,-7.8115775770000155 112.29267653799998,-7.8110750779999165 112.29251709900002,-7.810835200999964 112.29217488000005,-7.810310716999911 112.29193772400005,-7.8100134699999195 112.29163264600004,-7.809724117999959</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00625859656</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.09727130500004,-7.706810269999973 112.09727036000005,-7.70681321199995 112.09700187600004,-7.707423315999982 112.09678444400008,-7.707726532999935 112.09657043000004,-7.707928121999917 112.09580716900004,-7.708356449999918 112.0951680410001,-7.7087266129999925 112.09356201800009,-7.7097042859999725 112.09323399600012,-7.709858918999977 112.09298697100012,-7.709898945000003 112.09270197200007,-7.709863622999922 112.09236795900006,-7.709732784999932 112.09222172400004,-7.709648061999939</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00429826712</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.11909262200005,-7.952681389999981 112.11906465300005,-7.952992104999932 112.1190577660001,-7.953068643999959 112.118828837,-7.954864710999974 112.11858304200008,-7.955740198999937 112.11854649699998,-7.955849258999901 112.11852822900008,-7.955920419999927 112.11849397500008,-7.956059105999945 112.11845180900006,-7.95620528299996 112.11837185000002,-7.956593589999937 112.11829734400007,-7.956851794999984 112.11828405800013,-7.956890412999982</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lokal</SimpleData>
+                        <SimpleData name="shape_leng">0.00312035183</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>111.97839064700013,-7.768022462999944 111.97962498300011,-7.768374004999899 111.98018802300007,-7.768545607999975 111.98089510400004,-7.768749328999956 111.9812040070001,-7.768833587999911 111.98139625200011,-7.768837737999988</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.10">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00099905495</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.08589034800002,-7.728636298999934 112.08585304400005,-7.728756281999914 112.0856336520001,-7.729601684999963</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.11">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00178828912</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>111.94149634100005,-7.727427954999964 111.94177037200008,-7.727536888000007 111.94286744500008,-7.727934993999995 111.94313668400007,-7.728119385999975</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.12">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00156515582</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>111.98704475400002,-7.880206286999989 111.9870348250001,-7.880268752999918 111.9868771420001,-7.88070496899995 111.98667363600005,-7.881165035000002 111.98648713500008,-7.881666473999925</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.13">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00238359184</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.12429904400007,-7.652433926999922 112.12386100100007,-7.652326323999901 112.1231776230001,-7.652097047999938 112.12248372200006,-7.651864686999986 112.12201958700003,-7.651742533999915</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.14">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00405451916</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.29327075000003,-7.828403675999905 112.2931342370001,-7.829372677999967 112.293116808,-7.829640398000002 112.29303656100002,-7.830872814999921 112.2929044430001,-7.832105418999944 112.29285085500011,-7.832434048999957</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.15">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00142179880</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.30132546000009,-7.879295029999998 112.30130441800011,-7.879297645999948 112.30115101500004,-7.879265511999954 112.30076616300008,-7.879061242000017 112.29995865300006,-7.879028858000002</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.16">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00083461418</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.00159382199999,-7.768600381999889 112.00152386300014,-7.768574471999965 112.001226899,-7.768539039999965 112.00082216900009,-7.768430466999952 112.00078211300006,-7.76841817</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.17">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00252272457</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.10263093400012,-7.739771155999929 112.10202139500005,-7.741116485999953 112.10190430300013,-7.741123996999953 112.10167948400009,-7.741086863999989 112.10100126300001,-7.7409113889999475</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.18">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00103323521</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>111.96290723900003,-7.979583903999952 111.96267902100007,-7.980591619999931</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.19">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00227027194</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.23002637300014,-7.803581312999917 112.22996562,-7.803784535999945 112.22990399500006,-7.804117077999926 112.22989075000011,-7.804493619999995 112.22987511400007,-7.804626362999965 112.22979371900007,-7.805833143999983</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.20">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00161943822</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.11381522200011,-7.898816771999993 112.11382498400003,-7.898685644999979 112.11384492300009,-7.898574657999944 112.11388675600008,-7.898447442999988 112.11393157300006,-7.898301253999971 112.11397532800004,-7.898167450999914 112.11412471500014,-7.897749050999934 112.11421618100007,-7.897464338999914 112.11428647200012,-7.897272537999942</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.21">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00067633067</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.1192209430001,-7.762653986999933 112.11917118100007,-7.762767483999909 112.11902083100007,-7.763110447999953 112.11893272200005,-7.7632650329999535</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.22">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Setapak</SimpleData>
+                        <SimpleData name="shape_leng">0.00450330182</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.16133371700003,-7.886253171 112.16149915500013,-7.8860703889999755 112.16194717200007,-7.885912985999919 112.16199409000005,-7.885785546999944 112.16233210300004,-7.884315144999963 112.16248347100013,-7.883651026999903 112.16264586900006,-7.883370860999904 112.16282587200013,-7.883213930999975 112.1631530540001,-7.882956006999951 112.1633171220001,-7.882813047999935 112.16347567099997,-7.882765678999924 112.16356505000009,-7.882737033999952</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.23">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00665548860</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>111.96727323700006,-7.7788207809999825 111.966459979,-7.778910201000009 111.96509543800008,-7.778993855999914 111.96287251600009,-7.779192780999942 111.96243593400003,-7.779228194999941 111.96196530700009,-7.779186815999893 111.96185637000004,-7.779084155999925 111.96177077300007,-7.778913283999909 111.96154968500007,-7.778140685999933 111.96150968400005,-7.777961543999943</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.24">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Setapak</SimpleData>
+                        <SimpleData name="shape_leng">0.00095426528</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.2213782430001,-7.901645587999926 112.22233250500001,-7.901643086999986</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.25">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Kolektor</SimpleData>
+                        <SimpleData name="shape_leng">0.00065854886</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.18332873500003,-7.741038868999926 112.18349767200006,-7.740632849999905 112.18353684200011,-7.740561638999964 112.18359188400004,-7.740435621999929</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.26">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00984136978</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.1378485460001,-7.807000246000005 112.138088861,-7.807810773999922 112.13821187300006,-7.808449774999946 112.13968159300006,-7.809505932999937 112.14171158100008,-7.810877297999983 112.14233843500007,-7.8099446990000025 112.14243448400012,-7.809801797999992 112.14252361900003,-7.809669182999944 112.14258650100008,-7.809575625000019 112.14393744400003,-7.807451649999962</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.27">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lokal</SimpleData>
+                        <SimpleData name="shape_leng">0.00331760548</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>111.98492749900008,-7.8395593759999365 111.98467354300003,-7.839468323999952 111.9840239320001,-7.839238442999939 111.98341684700006,-7.839049992999978 111.98178377200011,-7.83850040699998</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.28">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00284208486</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.1292768930001,-7.701579283999969 112.12927191800013,-7.701617914999968 112.12911857200005,-7.702255195999939 112.1289023080001,-7.703269957999968 112.12887705400014,-7.70338840999991 112.12880448000008,-7.7037418129999296 112.12880338800008,-7.703747197999931 112.12874202700007,-7.703891067999933 112.12858804000003,-7.703944290999985 112.12830269600013,-7.703899912999955 112.12829062900002,-7.703896778999962 112.12829009100007,-7.703898860999956</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.29">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Setapak</SimpleData>
+                        <SimpleData name="shape_leng">0.00601125064</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>111.94819783500004,-7.70582909099997 111.94822716200008,-7.70601455599995 111.94830167600011,-7.706488348999894 111.94841895200004,-7.707293056999951 111.94867137300005,-7.708024990999938 111.94882177200007,-7.708520322999977 111.94885036000004,-7.708947872999914 111.9488167690001,-7.709469686999924 111.94865397400004,-7.710032695999967 111.94852880800008,-7.710294882999989 111.94797765200003,-7.711255777000002 111.94789830500004,-7.711548215999951</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.30">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00126197366</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>111.95327616000012,-7.913541826999946 111.95359064200002,-7.9126205899999285 111.95362665800008,-7.912550575999909 111.95370592100006,-7.912356320999912</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.31">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00465794740</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.12942788700006,-7.645871629999899 112.12985742899998,-7.645989162999943 112.129978949,-7.646007113999918 112.13082396000001,-7.646198803999969 112.13400581500004,-7.646714010999965</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.32">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00219704805</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.11023637300003,-7.783865108999997 112.11037710000004,-7.783382496999945 112.11060363800004,-7.782603621999982 112.11080149599998,-7.781742883999907</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.33">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00439222532</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.19833686400013,-7.755838958999959 112.19522832300005,-7.755437519999962 112.1949122300001,-7.756655026999979</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.34">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00094533176</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.16563535600005,-7.7455111319999475 112.16556958100011,-7.745497112999942 112.16471885000007,-7.745279672999981</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.35">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Setapak</SimpleData>
+                        <SimpleData name="shape_leng">0.00090393494</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.256182651,-7.860055807999931 112.25636432600002,-7.859977237999914 112.25667404100008,-7.859868114999944 112.25702242500003,-7.859722421999969</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.36">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lokal</SimpleData>
+                        <SimpleData name="shape_leng">0.00189007060</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.04478848599999,-7.818663258000001 112.04476581399997,-7.818696207999974 112.04415443000002,-7.820274290999983 112.04411656600008,-7.820427375999948</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.37">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00490145409</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.27193936900005,-7.866918779999963 112.27192639000005,-7.868210069999957 112.27191603600008,-7.868341991999948 112.27185941000002,-7.8696612949999505 112.27183140200009,-7.870505359999978 112.27185233700006,-7.871817916999955</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.38">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00295072716</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.11177881200003,-7.841419388999913 112.11161243400011,-7.841381462999973 112.11088360700003,-7.841068503000013 112.11057544600011,-7.840944372999957 112.110233965,-7.840772433999941 112.10977793400002,-7.840599159999993 112.10936168700005,-7.840396784999946 112.10906869500005,-7.840263994999972</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.39">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Setapak</SimpleData>
+                        <SimpleData name="shape_leng">0.00087459409</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.25489402000005,-7.855012537999915 112.25568174100013,-7.854697940999909 112.25570630800003,-7.854688343999914</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.40">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00186414045</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.1588795990001,-7.810440416999896 112.15729154100006,-7.809464152999944</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.41">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00532003265</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.14365680900009,-7.630871381999913 112.14353919100003,-7.630443551999953 112.14352650100014,-7.630034345999935 112.14350055900003,-7.629652849999989 112.14349600900002,-7.629611892999975 112.14344064600006,-7.62910838099997 112.1434743470001,-7.62814538099996 112.14346408000004,-7.627931608999948 112.14344944900007,-7.627303091999991 112.14343874400008,-7.626480752999985 112.14352334700006,-7.626218705999975 112.14377110500004,-7.6261922759999194 112.14391400400005,-7.626207634999947 112.14415247300006,-7.626233231999933</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.42">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lokal</SimpleData>
+                        <SimpleData name="shape_leng">0.00291856156</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.12975107999998,-7.918688534999905 112.12977859700004,-7.918699991999965 112.13000523200004,-7.918765361999956 112.1309526440001,-7.9189991289999355 112.13154450200012,-7.919163360999935 112.13200290200004,-7.919368479999942 112.13248483700013,-7.919654920999928</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.43">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00003569144</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.10503029700014,-7.69897366599994 112.10504637100004,-7.698941798999968</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.44">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Setapak</SimpleData>
+                        <SimpleData name="shape_leng">0.00080475500</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.23479980000003,-7.926000511999963 112.23482507500009,-7.926804869999991</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.45">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00609610915</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.09366411000009,-7.942661305999941 112.09360653600004,-7.942679852999966 112.09299945400008,-7.943036497999987 112.09194421900008,-7.943648969999948 112.09157359800005,-7.943700607999958 112.09107040900008,-7.943699413999948 112.09027296300009,-7.943626214999931 112.08806888900007,-7.943399077999967 112.08785205800007,-7.94341605099995</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.46">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00277268424</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.11537446600008,-7.684395070999937 112.11594189000004,-7.6833857309999125 112.115960771,-7.683352987999957 112.11620614900006,-7.682898032999972 112.11675049499998,-7.681988389999937</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.47">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00200359759</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.04066378200004,-7.896238287999989 112.04051272299996,-7.896863659999951 112.04025931300005,-7.897809965 112.04020132500014,-7.897955538999966 112.04013379199996,-7.898169004999954</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.48">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00795888809</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>112.26635950000005,-7.784041911999971 112.26657686700001,-7.784186194000007 112.26676662999999,-7.784398927999934 112.26692100500006,-7.784618973999933 112.26722321400011,-7.784900851999986 112.26751197700001,-7.785019806999969 112.26795510100008,-7.785076233999931 112.26821717400001,-7.78512452899993 112.26842979200002,-7.785212102999893 112.26849117100004,-7.785311497999945 112.2685059370001,-7.785400459999934 112.26842123100002,-7.7858659199999 112.26833904900006,-7.786284381999973 112.26813164100004,-7.787938487999966 112.26795175600007,-7.790151553999934 112.26791075200006,-7.790525326999951 112.26792257400007,-7.790630087999915</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.49">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lain</SimpleData>
+                        <SimpleData name="shape_leng">0.00425056619</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>111.95671554100004,-7.882456944999959 111.95705209100008,-7.882516510999913 111.95735056600009,-7.882601524999931 111.9579249880001,-7.8827252949999576 111.95872056800002,-7.882891094999909 111.95921826600008,-7.883040400000006 111.95953442400013,-7.88309125599995 111.95957408500003,-7.883092711999982 111.95986343500007,-7.883145934999945 111.96008448200007,-7.883183179999918 111.96087180300012,-7.88332658199997</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="Jalan  Kediri.50">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Jalan  Kediri_1">
+                        <SimpleData name="konrjl">0.0</SimpleData>
+                        <SimpleData name="matrjl">0.0</SimpleData>
+                        <SimpleData name="fgsrjl">0.0</SimpleData>
+                        <SimpleData name="utkrjl">0.0</SimpleData>
+                        <SimpleData name="tolrjl">0.0</SimpleData>
+                        <SimpleData name="wlyrjl">0.0</SimpleData>
+                        <SimpleData name="autrjl">0.0</SimpleData>
+                        <SimpleData name="klsrjl">0.0</SimpleData>
+                        <SimpleData name="spcrjl">0.0</SimpleData>
+                        <SimpleData name="jparjl">0.0</SimpleData>
+                        <SimpleData name="arhrjl">0.0</SimpleData>
+                        <SimpleData name="starjl">0.0</SimpleData>
+                        <SimpleData name="medrjl">0.0</SimpleData>
+                        <SimpleData name="locrjl">0.0</SimpleData>
+                        <SimpleData name="jarrjl">0.0</SimpleData>
+                        <SimpleData name="remark">Jalan Lokal</SimpleData>
+                        <SimpleData name="shape_leng">0.00399757791</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <LineString>
+                    <coordinates>111.94765261600006,-7.695235917999941 111.94729532500007,-7.695145420999914 111.94510747400005,-7.694715361999947 111.94373306700003,-7.694452669999972</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
