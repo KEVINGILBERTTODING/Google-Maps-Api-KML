@@ -15,8 +15,15 @@
         },
       });
 
+      // Menampilkan KML Kecamatan
       const kecamatanLayer = new google.maps.KmlLayer({
         url: "https://raw.githubusercontent.com/KEVINGILBERTTODING/KML-FILE/master/kecamatan_kediri.kml",
+        map: map,
+      });
+
+      // Menampilkan KML Peternakan
+      const PeternakanLayer = new google.maps.KmlLayer({
+        url: "https://raw.githubusercontent.com/KEVINGILBERTTODING/Latihan_Google-Maps-Api-KML/master/assets/peternakan.kml",
         map: map,
       });
 
